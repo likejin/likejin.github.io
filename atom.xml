@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[寂寞总....]]></title>
+  <subtitle><![CDATA[zzz]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.likejin.cn/"/>
+  <updated>2015-12-08T11:06:08.371Z</updated>
+  <id>http://www.likejin.cn/</id>
+  
+  <author>
+    <name><![CDATA[like jin]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[ngrok国内服务]]></title>
+    <link href="http://www.likejin.cn/2015/12/08/ngrok%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://www.likejin.cn/2015/12/08/ngrok服务/</id>
+    <published>2015-12-08T10:46:00.000Z</published>
+    <updated>2015-12-08T11:06:08.371Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://www.qydev.com" target="_blank" rel="external">qydev.com</a></li>
+<li><a href="http://www.ngrok.cc" target="_blank" rel="external">www.ngrok.cc</a></li>
+<li><a href="http://natapp.cn/" target="_blank" rel="external">http://natapp.cn/</a></li>
+<li><em>debug.host:520(加下面那个QQ群共享文件中有，不保证一直都开着)</em></li>
+<li><a href="http://www.tunnel.org.cn" target="_blank" rel="external">www.tunnel.org.cn</a></li>
+<li><a href="http://blog.phpor.me/tools/2015/11/04/share-ngrok.html#comment-2352838240" target="_blank" rel="external">http://blog.phpor.me</a></li>
+</ul>
+<p>他们大部分是参考这个教程的<br><a href="http://tonybai.com/2015/03/14/selfhost-ngrok-service/" target="_blank" rel="external">Tony Bai</a></p>
+<h6 id="QQ_u4EA4_u6D41_u7FA4_341245238"><a href="#QQ_u4EA4_u6D41_u7FA4_341245238" class="headerlink" title="QQ交流群 341245238"></a>QQ交流群 341245238</h6>]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><a href="http://www.qydev.com" target="_blank" rel="external">qydev.com</a></li>
+<li><a href="http://www.ngrok.cc" target="_blank" ]]>
+    </summary>
+    
+      <category term="工具" scheme="http://www.likejin.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="汇总" scheme="http://www.likejin.cn/categories/%E6%B1%87%E6%80%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[wp-to-hexo]]></title>
+    <link href="http://www.likejin.cn/2015/12/08/wp-to-hexo/"/>
+    <id>http://www.likejin.cn/2015/12/08/wp-to-hexo/</id>
+    <published>2015-12-08T10:18:00.000Z</published>
+    <updated>2015-12-08T10:29:32.941Z</updated>
+    <content type="html"><![CDATA[<p>  <em>最开始想买一个找一个免费的空间，挂上自己的简历，找了好久，都不理想，看到无意中看到它<a href="http://www.arebz.com/" target="_blank" rel="external">标准互联</a>，注册了一下，感觉比国外的好，应该比较快，用了一段时间之后，哎不说了，换上付费的，还是一个字，无语了。。不知道怎么说，反正便宜没好货，哎，想搞一个vps ,买不起，之后有一位网友用github page 搭建的。。找了一下，速度也行，果断弃掉以前的wp,哎！可惜了，不过这个东西感觉还是蛮好玩的，我折腾了一天，还是感觉摸不到头脑，其实还有一点了解的。。不过访问速度确实可以啦！！</em></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  <em>最开始想买一个找一个免费的空间，挂上自己的简历，找了好久，都不理想，看到无意中看到它<a href="http://www.arebz.com/" target="_blank" rel="external">标准互联</a>，注册了一下，感觉比国外的好，应该比]]>
+    </summary>
+    
+      <category term="感受" scheme="http://www.likejin.cn/tags/%E6%84%9F%E5%8F%97/"/>
+    
+      <category term="原创" scheme="http://www.likejin.cn/categories/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[搭建ngrok 服务器]]></title>
+    <link href="http://www.likejin.cn/2015/12/06/ngrok/"/>
+    <id>http://www.likejin.cn/2015/12/06/ngrok/</id>
+    <published>2015-12-06T12:56:00.000Z</published>
+    <updated>2015-12-07T02:28:33.447Z</updated>
+    <content type="html"><![CDATA[<h3 id="Windows/Centos/ubuntu_u5B89_u88C5GO_u8BED_u8A00_u73AF_u5883"><a href="#Windows/Centos/ubuntu_u5B89_u88C5GO_u8BED_u8A00_u73AF_u5883" class="headerlink" title="Windows/Centos/ubuntu安装GO语言环境"></a>Windows/Centos/ubuntu安装GO语言环境</h3><h3 id="Centos/Linux_u4E0B_u6E90_u7801_u5B89_u88C5golang_uFF1A"><a href="#Centos/Linux_u4E0B_u6E90_u7801_u5B89_u88C5golang_uFF1A" class="headerlink" title="Centos/Linux下源码安装golang："></a>Centos/Linux下源码安装golang：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget https://storage.googleapis.com/golang/go1.<span class="number">4.1</span>.linux-amd64.tar.gz</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">tar -C /usr/<span class="built_in">local</span> -xzf go1.<span class="number">4.1</span>.linux-amd64.tar.gz</span><br><span class="line">mkdir <span class="variable">$HOME</span>/go</span><br><span class="line"><span class="built_in">echo</span> <span class="string">'export GOROOT=/usr/local/go'</span> &gt;&gt; ~/.bashrc </span><br><span class="line"><span class="built_in">echo</span> <span class="string">'export GOPATH=$HOME/go'</span> &gt;&gt; ~/.bashrc </span><br><span class="line"><span class="built_in">echo</span> <span class="string">'export PATH=$PATH:$GOROOT/bin:$GOPATH/bin'</span> &gt;&gt; ~/.bashrc </span><br><span class="line"><span class="built_in">source</span> <span class="variable">$HOME</span>/.bashrc</span><br></pre></td></tr></table></figure>
+<h3 id="u5B89_u88C5"><a href="#u5B89_u88C5" class="headerlink" title="安装"></a>安装</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install mercurial git bzr subversion</span><br></pre></td></tr></table></figure>
+ <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /usr/<span class="built_in">local</span>/src/</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/inconshreveable/ngrok.git</span><br><span class="line"><span class="built_in">export</span> GOPATH=/usr/<span class="built_in">local</span>/src/ngrok/</span><br><span class="line"><span class="built_in">export</span> NGROK_DOMAIN=<span class="string">"haiyun.me"</span> //替换内容</span><br></pre></td></tr></table></figure>
+ <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> ngrok</span><br><span class="line">openssl genrsa -out rootCA.key <span class="number">2048</span></span><br><span class="line">openssl req -x509 -new -nodes -key rootCA.key -subj <span class="string">"/CN=<span class="variable">$NGROK_DOMAIN</span>"</span> -days <span class="number">5000</span> -out rootCA.pem</span><br><span class="line">openssl genrsa -out device.key <span class="number">2048</span></span><br><span class="line">openssl req -new -key device.key -subj <span class="string">"/CN=<span class="variable">$NGROK_DOMAIN</span>"</span> -out device.csr</span><br><span class="line">openssl x509 -req -in device.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out device.crt -days <span class="number">5000</span></span><br><span class="line">cp rootCA.pem assets/client/tls/ngrokroot.crt</span><br><span class="line">cp device.crt assets/server/tls/snakeoil.crt </span><br><span class="line">cp device.key assets/server/tls/snakeoil.key</span><br></pre></td></tr></table></figure>
+ <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GOOS=linux GOARCH=<span class="number">386</span></span><br></pre></td></tr></table></figure>
+<p> 这一步操作有可能会报错，但是不要紧的，直接运行下一步make release-server release-client</p>
+ <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make clean</span><br></pre></td></tr></table></figure>
+ <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make release-server release-client</span><br></pre></td></tr></table></figure>
+<h3 id="u542F_u52A8SERVER_uFF1A"><a href="#u542F_u52A8SERVER_uFF1A" class="headerlink" title="启动SERVER："></a>启动SERVER：</h3> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bin/ngrokd -domain=<span class="string">"<span class="variable">$NGROK_DOMAIN</span>"</span> -httpAddr=<span class="string">":8000"</span></span><br></pre></td></tr></table></figure>
+<h3 id="u7F16_u8BD1windows_u5BA2_u6237_u7AEF"><a href="#u7F16_u8BD1windows_u5BA2_u6237_u7AEF" class="headerlink" title="编译windows客户端"></a>编译windows客户端</h3> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /usr/<span class="built_in">local</span>/go/src/</span><br><span class="line">GOOS=windows GOARCH=<span class="number">386</span> CGO_ENABLED=<span class="number">0</span> ./make.bash</span><br><span class="line"><span class="built_in">cd</span> -</span><br><span class="line">GOOS=windows GOARCH=<span class="number">386</span> make release-server release-client</span><br></pre></td></tr></table></figure>
+<h3 id="u5BA2_u6237_u7AEF_u914D_u7F6E_uFF1Angrok-cfg"><a href="#u5BA2_u6237_u7AEF_u914D_u7F6E_uFF1Angrok-cfg" class="headerlink" title="客户端配置：ngrok.cfg"></a>客户端配置：ngrok.cfg</h3><p>server_addr: “haiyun.me:4443”</p>
+<p>trust_host_root_certs: false</p>
+<p>//写这样一段话，到放到指定的目录中 和下面的客户端放到一个文件夹中</p>
+<h3 id="u542F_u52A8_u5BA2_u6237_u7AEF_uFF1A"><a href="#u542F_u52A8_u5BA2_u6237_u7AEF_uFF1A" class="headerlink" title="启动客户端："></a>启动客户端：</h3> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ngrok -subdomain mytest -config=ngrok.cfg <span class="number">80</span></span><br></pre></td></tr></table></figure>
+<h3 id="u5DEE_u4E0D_u591A_u5C31_u5B8C_u6210_u4E86_uFF0C_u597D_u50CFhttps__u6BD4_u8F83_u9EBB_u70E6_uFF0C_u8FD8_u9700_u8981_u8BC1_u4E66_uFF0C_u8C8C_u4F3C_u8981_u82B1money_u2026"><a href="#u5DEE_u4E0D_u591A_u5C31_u5B8C_u6210_u4E86_uFF0C_u597D_u50CFhttps__u6BD4_u8F83_u9EBB_u70E6_uFF0C_u8FD8_u9700_u8981_u8BC1_u4E66_uFF0C_u8C8C_u4F3C_u8981_u82B1money_u2026" class="headerlink" title="差不多就完成了，好像https 比较麻烦，还需要证书，貌似要花money…"></a>差不多就完成了，好像https 比较麻烦，还需要证书，貌似要花money…</h3><p>来自 <a href="http://www.haiyun.me/archives/1012.html" target="_blank" rel="external">http://www.haiyun.me/archives/1012.html</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="Windows/Centos/ubuntu_u5B89_u88C5GO_u8BED_u8A00_u73AF_u5883"><a href="#Windows/Centos/ubuntu_u5B89_u88C5GO_u8BED_u8A00_u73AF_u5883" ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Zend Studio 12.5.1（64位）破解汉化版免费下载]]></title>
+    <link href="http://www.likejin.cn/2015/12/06/win8php/"/>
+    <id>http://www.likejin.cn/2015/12/06/win8php/</id>
+    <published>2015-12-06T12:53:34.000Z</published>
+    <updated>2015-12-07T02:52:34.964Z</updated>
+    <content type="html"><![CDATA[<p><strong>之前安装的zend studio 是很早的一个版本 ，好像一些api 没有，智能提示也没有vs好，感觉vs 还是比较强大的。。今天再次网络寻找zend studio 12.5.1 ，本人亲自测试，目前是可以的，不知道以后会不会，小伙伴不妨试一下</strong></p>
+<ul>
+<li><p>下载官方Zend Studio 12.5.1（64位）及破解补丁</p>
+<p><strong>百度地址<a href="http://pan.baidu.com/s/1bnHgOSf" target="_blank" rel="external">http://pan.baidu.com/s/1bnHgOSf</a> 提取密码 vn1n</strong></p>
+</li>
+<li><p>安装官方Zend Studio 12.5.1（64位），如果你要用32位的，请自己百度找一下。</p>
+</li>
+<li><p>汉化  这里就不介绍了。。自己百度一下</p>
+</li>
+</ul>
+<p>本软件仅供初学者学习使用，请支持正版！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><strong>之前安装的zend studio 是很早的一个版本 ，好像一些api 没有，智能提示也没有vs好，感觉vs 还是比较强大的。。今天再次网络寻找zend studio 12.5.1 ，本人亲自测试，目前是可以的，不知道以后会不会，小伙伴不妨试一下</stron]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[AppServNetwork]]></title>
+    <link href="http://www.likejin.cn/2015/12/06/php%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    <id>http://www.likejin.cn/2015/12/06/php环境搭建/</id>
+    <published>2015-12-06T12:18:00.000Z</published>
+    <updated>2015-12-07T02:53:26.696Z</updated>
+    <content type="html"><![CDATA[<p><strong><a href="http://www.appservnetwork.com" target="_blank" rel="external">http://www.appservnetwork.com/</a></strong></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><strong><a href="http://www.appservnetwork.com" target="_blank" rel="external">http://www.appservnetwork.com/</a></strong></p>
+]]>
+    </summary>
+    
+      <category term="教程" scheme="http://www.likejin.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[php环境搭建]]></title>
+    <link href="http://www.likejin.cn/2015/12/06/hello-world/"/>
+    <id>http://www.likejin.cn/2015/12/06/hello-world/</id>
+    <published>2015-12-06T12:18:00.000Z</published>
+    <updated>2015-12-07T02:54:14.509Z</updated>
+    <content type="html"><![CDATA[<p><strong>win8下安装 apache2.4+php5.5+mysql5.6+memcache+redis</strong></p>
+<p>记录一下 </p>
+<p><a href="http://www.pangyiguang.com/blog/88.html" target="_blank" rel="external">http://www.pangyiguang.com/blog/88.html</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><strong>win8下安装 apache2.4+php5.5+mysql5.6+memcache+redis</strong></p>
+<p>记录一下 </p>
+<p><a href="http://www.pangyiguang.com/blog/88.html" t]]>
+    </summary>
+    
+      <category term="教程" scheme="http://www.likejin.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="转载" scheme="http://www.likejin.cn/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+</feed>
